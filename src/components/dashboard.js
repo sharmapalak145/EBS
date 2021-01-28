@@ -16,7 +16,7 @@ const GridExampleTextAlignmentCenter = () => (
     /><br/><br/>
     <Card.Header className="font-heading">Customer</Card.Header>
     <Card.Description className="font">
-       View and Pay pending bills.
+       View and Pay pending bill.
     </Card.Description>
   </Card.Content>
 </Card>
